@@ -1,0 +1,43 @@
+Manipulation Financial Data in Python:
+Book: Python for finance
+
+Computational Investing:
+Book: What hedge funds really do
+
+Learning Algorithms for Trading:
+Book: Mitchel machine learning
+
+CSV File
+Header: temperature, pressure, humidity
+
+	12		12	12
+data	12		12	12
+	12		12	12
+
+	
+
+employees
+date/time
+companyname
+price of the stck
+companyshhometown
+
+Stockdata
+HCP.CSV:
+Date	Open	High	Close	Volume	Adj close = Header
+2012	16	46	46	46	45	
+close and adj close the same in 2012
+in 2002 different
+
+pandas dataframe symbols to the right and time from top to bottom
+
+Headers are layers
+	SPY 	AAPL 	GOOG 	GLD
+2000	10	10	10	10	NAN= Not A Number
+2000
+2000
+2000
+2015
+
+
+

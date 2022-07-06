@@ -1,0 +1,91 @@
+1.1
+Predictions on data.
+Cmputation statistics.
+Learning model.
+Regular algorithm and ML algorithm.
+Understand the market.
+Simple trading strategie
+technical indicators
+market trend
+predicting markettrend
+Featrure selecetion
+diffirent features of indicators
+most efficiant features for predition
+price changing
+volatility
+rsi & atr
+
+1.2
+Machine Learning:
+
+Supervised Learning:
+Linear moedel
+Supr vector machine
+Rondom forest
+Artificial neural network
+
+Unsuervised Learning:
+K-means clustering
+
+Reinforcement learning
+Helps in solving
+common financial
+market prediction
+problems
+
+Predict using clasification.
+Natural language processing
+data & feature engineering
+python installation use of jupyter & spyder
+
+1.3
+ML Terminologies
+Types of ML
+predict the stock trend
+sentiment analysis
+data & ml engineering
+
+1.4
+Implementing Model in live markets
+
+
+1: API to get data to get broker
+2: Core Python Engine: your model
+3: API to place Orders
+
+2.1
+Terms in ML
+2 sets training data
+1 set for testing data
+
+Train the model
+Test the model
+
+3.1
+SL= expected outcome defined
+SL= classification= data, labelled data teach ML algorithm/unkown data, MLA, prediction and regression=predction
+
+USL= dataset,MLA, Prediction
+
+6.1
+Download
+
+6.2
+Download
+
+7.1
+MLA
+SVM & Regression
+
+7.2
+Classification Algorithm:
+1 Import the libraries
+2 Read the S7P 500 data
+3 Define the explanatory variables
+4 Define the target variable
+5 Split the data into train and test
+6 Train a classiication model
+7 predict trading signals
+8 Calculate strategy returns
+
+

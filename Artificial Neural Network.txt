@@ -1,0 +1,19 @@
+X = [[0., 0.], [1., 1.]]
+y = [0, 1]
+X,y
+
+# Import MLPClassifier
+from sklearn.neural_network import MLPClassifier
+
+# Create the model
+clf = MLPClassifier(alpha=1e-05, hidden_layer_sizes=(5, 2), random_state=1,
+                    solver='lbfgs')
+# Fit the model
+clf.fit(X, y)
+
+clf.predict([[2., 2.], [-1., -2.]])
+
+[coef.shape for coef in clf.coefs_]
+
+clf.predict_proba([[2., 2.], [1., 2.]])
+
